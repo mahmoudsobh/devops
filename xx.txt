@@ -1,1 +1,5 @@
-jdsvlshdbdahbvlajdbvkljadvj
+<<<<<<< HEAD
+medo
+=======
+merge to master after another merge from other ranches 
+>>>>>>> e650e1b (merge commit)
